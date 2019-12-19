@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+package-lock.json
+/yarn-error.log
+.idea/
+.env
+ntent-dfdcd-firebase-adminsdk-6kr9t-4703a1a8e6.json
+firestore-export.json
+backupdata/
+past-deployment-problems-and-solutions

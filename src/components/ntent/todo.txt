@@ -1,0 +1,19 @@
+todo:
+
+
+//when ppl select a plan, take the to the REAL paypal, and charge $0? acn u do that? if not... open their dashboard asap and provide features given their "tier"
+
+
+//on both mentor and user signup pages, link Terms and Conditions to a Modal pop up with the terms and conditions
+
+
+notes: notes:
+
+navbar is 10%
+
+vuestic layout aka content wrap is 90%
+
+keepps it from having white space at botom of screen!
+
+
+///////

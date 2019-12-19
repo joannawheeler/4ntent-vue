@@ -1,0 +1,20 @@
+
+PAGES WHERE USERS CAN SIGN UP
+AKA BECOME A USER IN OUR DATABASE
+
+1) ASSESSMENT : public/Assessment.vue
+  a) if they are not logged in (have NOT YET created an account with us), once they finish the assessment and get assigned a title of "Nutrition Nut", "Fitness Freak", or "Lifestyle Guru" they will become a user in our db
+  b) if they ARE LOGGED IN which means they already have an account with us, their userinfo will be updated once they complete the assessment
+
+2) PRICING PAGE : public/SignupReg.vue
+  a) if new user, they will become a user in our db directly from the SignupReg Modal
+  b) UPDATE: if is existing user, once they make a purchase, update their userinfo
+
+PAGES WHERE PROVIDERS CAN SIGN UP
+AKA BECOMES USERS IN OUR DATABASE
+
+1) MENTOR SIGNUP PAGE : auth/signup/mentorsignup.vue
+
+
+________________________________________________________________________
+
